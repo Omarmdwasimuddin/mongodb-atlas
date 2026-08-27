@@ -22,5 +22,5 @@
 ><img width="900" height="766" alt="image" src="https://github.com/user-attachments/assets/f29c3982-7351-45cd-9e2f-ff5a5573912d" />
 
 
-> ### copy koro: username & password
+> ### Download koro .env file
 > <img width="773" height="692" alt="image" src="https://github.com/user-attachments/assets/afb3a501-2676-4edf-a6c7-5935f6e4c434" />
