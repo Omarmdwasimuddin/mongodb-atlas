@@ -24,3 +24,12 @@
 
 > ### Download koro .env file
 > <img width="773" height="692" alt="image" src="https://github.com/user-attachments/assets/afb3a501-2676-4edf-a6c7-5935f6e4c434" />
+
+
+
+>Select koro: Drivers
+><img width="691" height="719" alt="image" src="https://github.com/user-attachments/assets/30bf0673-30f9-4329-a765-01269c32b27d" />
+
+
+> Click koro done
+> <img width="617" height="748" alt="image" src="https://github.com/user-attachments/assets/9e8b2b7e-3fce-4a21-9fc6-44bc95ca6773" />
