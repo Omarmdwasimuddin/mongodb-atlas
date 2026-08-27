@@ -9,3 +9,6 @@
 
 > ### click koro
 ><img width="431" height="102" alt="image" src="https://github.com/user-attachments/assets/1dc0cc19-11ee-4dcc-ade2-c7cd1c7ba18b" />
+
+> ### click submit
+> <img width="669" height="340" alt="image" src="https://github.com/user-attachments/assets/eef2fe64-a118-414c-ba62-2b4aaac66348" />
