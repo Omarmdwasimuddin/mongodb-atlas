@@ -6,3 +6,6 @@
 
 > ### click koro
 ><img width="385" height="207" alt="image" src="https://github.com/user-attachments/assets/01390a2a-a709-4c6e-8db3-21616392a563" />
+
+> ### click koro
+><img width="431" height="102" alt="image" src="https://github.com/user-attachments/assets/1dc0cc19-11ee-4dcc-ade2-c7cd1c7ba18b" />
