@@ -12,3 +12,7 @@
 
 > ### click submit
 > <img width="669" height="340" alt="image" src="https://github.com/user-attachments/assets/eef2fe64-a118-414c-ba62-2b4aaac66348" />
+
+
+> ### chaile value daw ba skips koro
+> <img width="778" height="767" alt="image" src="https://github.com/user-attachments/assets/5176b004-7d5d-46ac-9e71-9cb187ff3044" />
